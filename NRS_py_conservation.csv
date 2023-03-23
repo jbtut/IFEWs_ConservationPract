@@ -1,21 +1,21 @@
-﻿Practice,Names List,Comments,% AVG Nitrate-N Reduction+,% Corn Yield Change++
-Timing,Moving from Fall to  Spring Pre-plant Application,Moving from Fall to  Spring Pre-plant Application,6,4
-Timing,Spring pre-plant/sidedress 40-60 split Compared to Fall Applied,Spring pre-plant/sidedress 40-60 split Compared to Fall Applied,5,10
-Timing,Sidedress - Compared to  Pre-plant Application,Sidedress - Compared to  Pre-plant Application,7,0
-Timing,Sidedress - Soil Test Based Compared to Pre-plant,Sidedress - Soil Test Based Compared to Pre-plant,4,13
-Source,Liquid Swine Manure Compared to Spring-Applied Fertilizer,Liquid Swine Manure Compared to Spring-Applied Fertilizer,4,0
-Source,Poultry Manure Compared to Spring Applied Fertilizer,Poultry Manure Compared to Spring Applied Fertilizer,-3,-2
-Nitrogen Application Rate,Reduce to  Maximum Return to Nitrogen value 149 kg N/ha (133 lb N/ac) for CS and 213 kg N/ha (190 lb N/ac) for CC,Reduce to  Maximum Return to Nitrogen value 149 kg N/ha (133 lb N/ac) for CS and 213 kg N/ha (190 lb N/ac) for CC,10,-1
-Nitrification Inhibitor,Nitrapyrin in Fall - Compared to Fall- Applied without Nitrapyrin,Nitrapyrin in Fall - Compared to Fall- Applied without Nitrapyrin,9,6
-Cover Crops,Rye,Rye,31,-6
-Cover Crops,Oat,Oat,28,-5
-Living Mulches,e.g. Kura clover - Nitrate-N reduction from one site,e.g. Kura clover - Nitrate-N reduction from one site,41,-9
-Edge-of-Field,Bioreactors,Bioreactors,43,0
-Edge-of-Field,Drainage Water Mgmt.,No impact on concentration,33,-
-Edge-of-Field,Shallow Drainage,No impact on concentration,32,-
-Edge-of-Field,Wetlands,Targeted Water Quality,52,-
-Edge-of-Field,Buffers ,Only for  water than interacts with the active zone below the buffer. This would only be a small fraction of all water that makes it to  a stream,91,-
-Perennial,Energy Crops - Compared to Spring-Applied Fertilizer,Energy Crops - Compared to Spring-Applied Fertilizer,72,-100
-Perennial,Land Retirement (CRP) -Compared to Spring- Applied Fertilizer,Land Retirement (CRP) -Compared to Spring- Applied Fertilizer,85,-100
-Extended Rotations,At least 2 years of alfalfa in a 4 or  5 year rotation,At least 2 years of alfalfa in a 4 or  5 year rotation,42,7
-Grazed Pastures,No pertinent information from Iowa -assume similar to CRP,No pertinent information from Iowa -assume similar to CRP,85,-100
+Practice	Names List	Comments	% AVG Nitrate-N Reduction+	% Corn Yield Change++
+Timing	Moving from Fall to  Spring Pre-plant Application	Moving from Fall to  Spring Pre-plant Application	6	4
+Timing	Spring pre-plant/sidedress 40-60 split Compared to Fall Applied	Spring pre-plant/sidedress 40-60 split Compared to Fall Applied	5	10
+Timing	Sidedress - Compared to  Pre-plant Application	Sidedress - Compared to  Pre-plant Application	7	0
+Timing	Sidedress - Soil Test Based Compared to Pre-plant	Sidedress - Soil Test Based Compared to Pre-plant	4	13
+Source	Liquid Swine Manure Compared to Spring-Applied Fertilizer	Liquid Swine Manure Compared to Spring-Applied Fertilizer	4	0
+Source	Poultry Manure Compared to Spring Applied Fertilizer	Poultry Manure Compared to Spring Applied Fertilizer	-3	-2
+Nitrogen Application Rate	Reduce to  Maximum Return to Nitrogen value 149 kg N/ha (133 lb N/ac) for CS and 213 kg N/ha (190 lb N/ac) for CC	Reduce to  Maximum Return to Nitrogen value 149 kg N/ha (133 lb N/ac) for CS and 213 kg N/ha (190 lb N/ac) for CC	10	-1
+Nitrification Inhibitor	Nitrapyrin in Fall - Compared to Fall- Applied without Nitrapyrin	Nitrapyrin in Fall - Compared to Fall- Applied without Nitrapyrin	9	6
+Cover Crops	Rye	Rye	31	-6
+Cover Crops	Oat	Oat	28	-5
+Living Mulches	e.g. Kura clover - Nitrate-N reduction from one site	e.g. Kura clover - Nitrate-N reduction from one site	41	-9
+Edge-of-Field	Bioreactors	Bioreactors	43	0
+Edge-of-Field	Drainage Water Mgmt.	No impact on concentration	33	-
+Edge-of-Field	Shallow Drainage	No impact on concentration	32	-
+Edge-of-Field	Wetlands	Targeted Water Quality	52	-
+Edge-of-Field	Buffers 	Only for  water than interacts with the active zone below the buffer. This would only be a small fraction of all water that makes it to  a stream	91	-
+Perennial	Energy Crops - Compared to Spring-Applied Fertilizer	Energy Crops - Compared to Spring-Applied Fertilizer	72	-100
+Perennial	Land Retirement (CRP) -Compared to Spring- Applied Fertilizer	Land Retirement (CRP) -Compared to Spring- Applied Fertilizer	85	-100
+Extended Rotations	At least 2 years of alfalfa in a 4 or  5 year rotation	At least 2 years of alfalfa in a 4 or  5 year rotation	42	7
+Grazed Pastures	Grazed Pastures - assume similar to CRP	No pertinent information from Iowa -assume similar to CRP	85	-100
